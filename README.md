@@ -1,4 +1,4 @@
-# Simple Shell Projec
+# Simple Shell Project
 This is a simple shell project done by C Progamming Language
 
 # Concept
