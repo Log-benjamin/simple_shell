@@ -1,5 +1,4 @@
 #include "shell.h"
-
 static int EXIT_CODE;
 static int no_init_exit_code = 1;
 /**
